@@ -1,5 +1,1 @@
-<p align="center">
-  <a href="https://othwsav.vercel.app>
-    <img alt="Othwsav" src="https://othwsav-v1.vercel.app/images/logo.svg" />
-  </a>
-</p>
+<img align="left" alt="Othwsav GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=othwsav&show_icons=true&hide_border=true" />
