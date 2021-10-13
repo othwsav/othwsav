@@ -1,7 +1,5 @@
-## Hi there, I'm Othmane - aka [Othwsav][website] 👋 - second aka CSS King
-### I'm a Professional Front-End Developer, with +6 years of expereience
-
-<br />
+## Hi there, I'm Othmane - aka [Othwsav][website](CSS King) 👋
+#### I'm a Professional Front-End Developer, with +6 years of expereience
 
 ---
 
@@ -26,17 +24,9 @@
 
 <br />
 
----
-
-<br />
-
 ### Github Stats:
 
 <img align="left" alt="Othwsav" src="https://github-readme-stats.vercel.app/api?username=othwsav&show_icons=true&hide_border=true&hide=contribs,stars,issues" />
-
-<br />
-
----
 
 <br />
 
