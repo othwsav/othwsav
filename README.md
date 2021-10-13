@@ -1,9 +1,6 @@
 ## Hi there, I'm Othmane - aka [Othwsav][website](CSS King) 👋
 #### I'm a Professional Front-End Developer, with +6 years of expereience
-
 ---
-
-<br />
 
 ### Languages and Tools:
 
@@ -24,12 +21,6 @@
 
 <br />
 
-### Github Stats:
-
-<img align="left" alt="Othwsav" src="https://github-readme-stats.vercel.app/api?username=othwsav&show_icons=true&hide_border=true&hide=contribs,stars,issues" />
-
-<br />
-
 ### Contact me:
 
 [<img align="left" alt="othwsav.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -37,6 +28,11 @@
 [<img align="left" alt="Othwsav | Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
 [<img align="left" alt="Othwsav | Codewars" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codewars.svg" />][codewars]
 
+<br />
+
+### Github Stats:
+
+<img align="left" alt="Othwsav" src="https://github-readme-stats.vercel.app/api?username=othwsav&show_icons=true&hide_border=true&hide=contribs,stars,issues" />
 
 
 [website]: https://othwsav.vercel.app/
