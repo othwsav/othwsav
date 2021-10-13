@@ -30,6 +30,12 @@
 
 <br />
 
+### Most Used Languages:
+
+<img align="left" alt="othwsav to langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=othwsav&hide=TeX&layout=compact" />
+
+<br />
+
 ### Github Stats:
 
 <img align="left" alt="Othwsav" src="https://github-readme-stats.vercel.app/api?username=othwsav&show_icons=true&hide_border=true&hide=contribs,stars,issues" />
