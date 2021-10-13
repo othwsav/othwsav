@@ -1,5 +1,5 @@
 ## Hi there, I'm Othmane - aka [Othwsav][website](CSS King) 👋
-#### I'm a Professional Front-End Developer, with +6 years of expereience
+#### I'm a professional Front-End developer, I have +6 years experience, and specified in developing portfolio websites, I can easily convert any website design or any idea to a real website.
 ---
 
 ### Languages and Tools:
